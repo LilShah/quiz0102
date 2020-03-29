@@ -9,10 +9,10 @@ This is a quiz/assignment for PDC
 
         import(
             ...
-            "github.com/username/corona"
+            "path/to/corona"
             ...
         )
 
-3.  Use by calling the function `corona()`
+3.  Use by calling the function `corona.GetCorona()`
 
 Example main file is given within
