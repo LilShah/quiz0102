@@ -15,4 +15,4 @@ This is a quiz/assignment for PDC
 
 3.  Use by calling the function `corona.GetCorona()`
 
-Example main file is given within
+Example main file is given within the project. Note that it will not run if it is in the same directory as the library
