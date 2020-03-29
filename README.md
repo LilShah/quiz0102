@@ -7,11 +7,11 @@ This is a quiz/assignment for PDC
 1.  Clone this repository to the src folder of your golang workspace
 2.  In your main file, import the library as such:
 
-        import{
+        import(
             ...
             "github.com/username/corona"
             ...
-        }
+        )
 
 3.  Use by calling the function `corona()`
 
