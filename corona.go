@@ -28,7 +28,7 @@ func GetCorona() {
 			fmt.Print("Corona cases in France: ", coronaFR, "\n\n")
 		case 4:
 			check4 = true
-			fmt.Print("oof\n\n")
+			fmt.Print("This library had corona virus installed. By using the library, you now have contracted the COVID-19 virus on your hands. Wash your hands ASAP to remove it from yourself.\n\n")
 		default:
 			fmt.Print("Error in input. Try again\n\n")
 		}
