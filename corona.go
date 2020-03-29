@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func corona() {
+func getCorona() {
 	fmt.Println("\nLast updated on: 2020/03/29 15:45")
 	fmt.Println("\nPlease select an option:")
 	fmt.Println("1. Print Covid19 cases in Pakistan")
@@ -36,5 +36,5 @@ func corona() {
 			break
 		}
 	}
-
+	return
 }
